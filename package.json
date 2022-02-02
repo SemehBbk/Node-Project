@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SemehBbk/Node-Project/issues"
   },
-  "homepage": "https://github.com/SemehBbk/Node-Project#readme"
+  "homepage": "https://github.com/SemehBbk/Node-Project#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
