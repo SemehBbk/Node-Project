@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/SemehBbk/Node-Project#readme",
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "mongoose": "^6.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }
