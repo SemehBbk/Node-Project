@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/SemehBbk/Node-Project#readme",
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "express": "^4.17.2",
-    "mongoose": "^6.2.0"
+    "mongoose": "^6.2.0",
+    "mongoose-unique-validator": "^3.0.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
